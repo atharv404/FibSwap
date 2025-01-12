@@ -1,0 +1,60 @@
+:root {
+  --rk-colors-accentColor: theme('colors.primary.DEFAULT');
+  --rk-colors-accentColorForeground: theme('colors.primary.foreground');
+  --rk-colors-actionButtonBorder: theme('colors.border');
+  --rk-colors-actionButtonBorderMobile: theme('colors.border');
+  --rk-colors-actionButtonSecondaryBackground: theme('colors.secondary.DEFAULT');
+  --rk-colors-closeButton: theme('colors.muted.foreground');
+  --rk-colors-closeButtonBackground: theme('colors.muted.DEFAULT');
+  --rk-colors-connectButtonBackground: theme('colors.primary.DEFAULT');
+  --rk-colors-connectButtonBackgroundError: theme('colors.destructive.DEFAULT');
+  --rk-colors-connectButtonInnerBackground: theme('colors.primary.DEFAULT');
+  --rk-colors-connectButtonText: theme('colors.primary.foreground');
+  --rk-colors-connectButtonTextError: theme('colors.destructive.foreground');
+  --rk-colors-error: theme('colors.destructive.DEFAULT');
+  --rk-colors-generalBorder: theme('colors.border');
+  --rk-colors-generalBorderDim: theme('colors.border');
+  --rk-colors-menuItemBackground: theme('colors.accent.DEFAULT');
+  --rk-colors-modalBackdrop: theme('colors.background');
+  --rk-colors-modalBackground: theme('colors.card.DEFAULT');
+  --rk-colors-modalBorder: theme('colors.border');
+  --rk-colors-modalText: theme('colors.foreground');
+  --rk-colors-modalTextDim: theme('colors.muted.foreground');
+  --rk-colors-modalTextSecondary: theme('colors.muted.foreground');
+  --rk-colors-profileAction: theme('colors.accent.DEFAULT');
+  --rk-colors-profileActionHover: theme('colors.accent.foreground');
+  --rk-colors-profileForeground: theme('colors.foreground');
+  --rk-colors-selectedOptionBorder: theme('colors.border');
+  --rk-colors-standby: theme('colors.yellow.500');
+}
+
+.dark {
+  --rk-colors-accentColor: theme('colors.primary.DEFAULT');
+  --rk-colors-accentColorForeground: theme('colors.primary.foreground');
+  --rk-colors-actionButtonBorder: theme('colors.border');
+  --rk-colors-actionButtonBorderMobile: theme('colors.border');
+  --rk-colors-actionButtonSecondaryBackground: theme('colors.secondary.DEFAULT');
+  --rk-colors-closeButton: theme('colors.muted.foreground');
+  --rk-colors-closeButtonBackground: theme('colors.muted.DEFAULT');
+  --rk-colors-connectButtonBackground: theme('colors.primary.DEFAULT');
+  --rk-colors-connectButtonBackgroundError: theme('colors.destructive.DEFAULT');
+  --rk-colors-connectButtonInnerBackground: theme('colors.primary.DEFAULT');
+  --rk-colors-connectButtonText: theme('colors.primary.foreground');
+  --rk-colors-connectButtonTextError: theme('colors.destructive.foreground');
+  --rk-colors-error: theme('colors.destructive.DEFAULT');
+  --rk-colors-generalBorder: theme('colors.border');
+  --rk-colors-generalBorderDim: theme('colors.border');
+  --rk-colors-menuItemBackground: theme('colors.accent.DEFAULT');
+  --rk-colors-modalBackdrop: rgba(0, 0, 0, 0.5);
+  --rk-colors-modalBackground: theme('colors.card.DEFAULT');
+  --rk-colors-modalBorder: theme('colors.border');
+  --rk-colors-modalText: theme('colors.foreground');
+  --rk-colors-modalTextDim: theme('colors.muted.foreground');
+  --rk-colors-modalTextSecondary: theme('colors.muted.foreground');
+  --rk-colors-profileAction: theme('colors.accent.DEFAULT');
+  --rk-colors-profileActionHover: theme('colors.accent.foreground');
+  --rk-colors-profileForeground: theme('colors.foreground');
+  --rk-colors-selectedOptionBorder: theme('colors.border');
+  --rk-colors-standby: theme('colors.yellow.500');
+}
+
